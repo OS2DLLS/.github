@@ -1,4 +1,4 @@
-# OS2DLLS — Libraries and DLLs for OS/2
+# OS2DLLS - Libraries and DLLs for OS/2
 
 **Preserving software. Sharing libraries. Keeping OS/2 alive.**
 
